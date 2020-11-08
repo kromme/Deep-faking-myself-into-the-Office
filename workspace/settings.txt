@@ -1,0 +1,13 @@
+Mode overlay
+mask_mode dst
+erode_mask_modifier 19
+blur_mask_modifier 100
+motion_blur_power 1
+output_face_scale 0
+color_transfer_mode mix-m
+sharpen_mode  None
+blursharpen_amount  42
+super_resolution_power 0
+image_denoise_power 62
+bicubic_degrade_power 0
+color_degrade_power 0
