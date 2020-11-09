@@ -7,7 +7,9 @@ Check the video at: https://medium.com/@j.kromme/deepfaking-myself-in-the-office
 
 This repo shows what I have done, I do not claim to have any rights of the video or to the code.
 
-## Preprations
+![](https://miro.medium.com/max/700/1*iJJjeYl0m3P81oHGzxvJTQ.png)
+
+## Preperations
 1. Clone the repo at https://github.com/iperov/DeepFaceLab.  
 2. Find a video where you want to put a / your face on. I choose: https://youtu.be/OkN6OV-ueTQ.  
 3. Create a video of around 20 minutes of yourself. I just recorded myself while I was working. I actually found the clip from The Office while I was recording, looking back, I would definitely first find the video. The reason is quite simple, if you imitate the destination video, the results will be better.  
